@@ -59,6 +59,7 @@ dependencies {
     implementation(libs.androidx.compose.material3)
 
     implementation(libs.vosk.android)
+    implementation(libs.androidx.room.external.antlr)
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
